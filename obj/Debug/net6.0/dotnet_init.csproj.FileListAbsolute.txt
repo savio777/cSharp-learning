@@ -1,0 +1,15 @@
+/home/savio777/Documentos/savio/dotnet_init/bin/Debug/net6.0/dotnet_init
+/home/savio777/Documentos/savio/dotnet_init/bin/Debug/net6.0/dotnet_init.deps.json
+/home/savio777/Documentos/savio/dotnet_init/bin/Debug/net6.0/dotnet_init.runtimeconfig.json
+/home/savio777/Documentos/savio/dotnet_init/bin/Debug/net6.0/dotnet_init.dll
+/home/savio777/Documentos/savio/dotnet_init/bin/Debug/net6.0/ref/dotnet_init.dll
+/home/savio777/Documentos/savio/dotnet_init/bin/Debug/net6.0/dotnet_init.pdb
+/home/savio777/Documentos/savio/dotnet_init/obj/Debug/net6.0/dotnet_init.csproj.AssemblyReference.cache
+/home/savio777/Documentos/savio/dotnet_init/obj/Debug/net6.0/dotnet_init.GeneratedMSBuildEditorConfig.editorconfig
+/home/savio777/Documentos/savio/dotnet_init/obj/Debug/net6.0/dotnet_init.AssemblyInfoInputs.cache
+/home/savio777/Documentos/savio/dotnet_init/obj/Debug/net6.0/dotnet_init.AssemblyInfo.cs
+/home/savio777/Documentos/savio/dotnet_init/obj/Debug/net6.0/dotnet_init.csproj.CoreCompileInputs.cache
+/home/savio777/Documentos/savio/dotnet_init/obj/Debug/net6.0/dotnet_init.dll
+/home/savio777/Documentos/savio/dotnet_init/obj/Debug/net6.0/ref/dotnet_init.dll
+/home/savio777/Documentos/savio/dotnet_init/obj/Debug/net6.0/dotnet_init.pdb
+/home/savio777/Documentos/savio/dotnet_init/obj/Debug/net6.0/dotnet_init.genruntimeconfig.cache
