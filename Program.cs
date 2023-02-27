@@ -37,4 +37,4 @@ string lastName = Console.ReadLine();
 Console.WriteLine($"{name} {lastName}");
 
 // https://www.youtube.com/watch?v=oTivhgjbhIg
-// 26:25 - tipagem estática
+// 36:51 - Nullables em projetos
